@@ -1,0 +1,15 @@
+.name {
+    color: white;
+    background-color: blue;
+    padding: 20px;
+    font-size: 18px;
+    border-radius: 8px;
+  }
+.obj {
+    color: rgba(44, 91, 211, 0.697);
+    background-color: rgb(202, 202, 215);
+    padding: 5px;
+    font-size: 18px;
+    border-radius: 8px;    
+
+}
